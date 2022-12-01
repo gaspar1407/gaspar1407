@@ -48,7 +48,7 @@ Como proyecto individual del bootcamp, desarrollé una SPA (Single Page Aplicati
 ## ¿Querés saber más de mi? ¡Contáctame!
 * ✉️ Email: gasparmunoz@hotmail.com
 * 📞 Cel: (+54) 1126595851
-* 👤 Portfolio: https://gaspar-munoz-portfolio.vercel.app/
+* 👤 Portfolio: https://portfolio-gaspar-munoz.vercel.app/
 * 💬 LinkedIn: https://www.linkedin.com/in/gaspar-mu%C3%B1oz-7a9825239/
 
 
