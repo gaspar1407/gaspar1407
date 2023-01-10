@@ -1,5 +1,6 @@
 ## ¡Hola! 👋 Soy Gaspar de Argentina!! 🤍💙
-![image](https://media-exp1.licdn.com/dms/image/C4D16AQEgI89ALgmlEw/profile-displaybackgroundimage-shrink_350_1400/0/1663092520201?e=1668643200&v=beta&t=lC5YktVm4q0PG0kiDdUL97cqMwBrF8y7czhXU4XXkI4)
+![image](https://user-images.githubusercontent.com/100777846/211588406-313f6700-cd48-419c-af3b-d04085d1b021.png)
+
 
 👀 ¿Quién soy? 
 🔹 Desarrollador FullStack con orientación FrontEnd, con la capacidad de desarrollar páginas y aplicaciones web, escalables, modularizadas y optimizadas. ⏱
